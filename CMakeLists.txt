@@ -1,9 +1,8 @@
-
 # Copyright (c) 2013-2018, EPFL/Blue Brain Project
 #                          Raphael Dumusc <raphael.dumusc@epfl.ch>
 #                          Daniel Nachbaur <daniel.nachbaur@epfl.ch>
 
-cmake_minimum_required(VERSION 3.1 FATAL_ERROR)
+cmake_minimum_required(VERSION 3.5 FATAL_ERROR)
 project(Deflect VERSION 1.0.2)
 set(Deflect_VERSION_ABI 7)
 
